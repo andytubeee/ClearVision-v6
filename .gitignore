@@ -118,6 +118,6 @@ dist
 .pnp.*
 
 # ClearVision build & test files
-public/
+# public/
 test/
 scripts/
